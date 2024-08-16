@@ -1,0 +1,6 @@
+gevent
+flask
+psutil==5.7.2
+requests
+mysql-connector
+pyinotify
